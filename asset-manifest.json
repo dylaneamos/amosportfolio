@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/amosportfolio/static/css/main.cf072046.css",
+    "main.js": "/amosportfolio/static/js/main.1472f526.js",
+    "static/media/amos-logo.png": "/amosportfolio/static/media/amos-logo.d8f4c40920a57a805892.png",
+    "static/media/snipets.png": "/amosportfolio/static/media/snipets.a9791b0442aba66e338f.png",
+    "static/media/flavorvista.png": "/amosportfolio/static/media/flavorvista.2eaa248d83a9e7be9c8a.png",
+    "static/media/ifmasa.png": "/amosportfolio/static/media/ifmasa.813d44688b9633b6b3d7.png",
+    "static/media/workImg.png": "/amosportfolio/static/media/workImg.4f31e45499eb226c3b7f.png",
+    "static/media/react.png": "/amosportfolio/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/node.png": "/amosportfolio/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/adobe-express.png": "/amosportfolio/static/media/adobe-express.31df997273a27ba2575e.png",
+    "static/media/github.png": "/amosportfolio/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/amosportfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/amosportfolio/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/amosportfolio/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/amosportfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/amosportfolio/index.html",
+    "main.cf072046.css.map": "/amosportfolio/static/css/main.cf072046.css.map",
+    "main.1472f526.js.map": "/amosportfolio/static/js/main.1472f526.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf072046.css",
+    "static/js/main.1472f526.js"
+  ]
+}
